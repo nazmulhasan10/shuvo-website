@@ -10,9 +10,9 @@ h1{
     color: orangered;
 }
 
-section{
+.fexible{
     display: flex;
-    margin: 170px;
+    margin: 140px;
 }
 .half-width{
     width: 50%;
@@ -36,5 +36,26 @@ section{
     background-image: url(image/images.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.red{
+    color: red;
+}
+.ex{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-left: 10px solid orangered;
+
+
+}
+.exparians{
+    background-image: url(image/images.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+footer p{
+    text-align: center;
 }
 
