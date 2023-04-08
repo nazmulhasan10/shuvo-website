@@ -12,6 +12,7 @@ h1{
 
 section{
     display: flex;
+    margin: 170px;
 }
 .half-width{
     width: 50%;
@@ -30,5 +31,10 @@ section{
     background-image: url(image/images.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.dream-big{
+    background-image: url(image/images.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
